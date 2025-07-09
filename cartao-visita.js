@@ -1,6 +1,6 @@
-const nome = "Paulo Sousa"
+const nome = "Maria Lopes"
 const profissao = "Web Developer"
-const idade = 21
+const idade = 27
 
 console.log("----------------------")
 console.log(`Nome: ${nome}`)
